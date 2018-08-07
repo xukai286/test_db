@@ -1,7 +1,7 @@
 # test_db
 A sample database with an integrated test suite, used to test your applications and database servers
 
-This repository was migrated from [Launchpad](https://launchpad.net/test-db).
+This repository was migrated from [Launchpad](https://launchpad.net/test-db).  It's modified to adapt for Group replication. (Remove table FK cascade defenition )
 
 See usage in the [MySQL docs](https://dev.mysql.com/doc/employee/en/index.html)
 
